@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Tech Lead | Python Specialist
 
-I am a **Software Engineer** and **Technical Lead** with 4+ years of experience designing high-performance automotive and fintech systems. I specialize in modernizing legacy architectures, implementing DevOps cultures, and mentoring the next generation of developers.
+I am a **Software Engineer** and **Technical Lead** with 5+ years of experience designing high-performance automotive and fintech systems. I specialize in modernizing legacy architectures, implementing DevOps cultures, and mentoring the next generation of developers.
 
 - 🔭 **Currently working on:** Automating automotive test systems, cloud migration and building automotive software products.
 - 🎓 **Teaching:** Training future Python developers. (80% hiring rate for grads!).
